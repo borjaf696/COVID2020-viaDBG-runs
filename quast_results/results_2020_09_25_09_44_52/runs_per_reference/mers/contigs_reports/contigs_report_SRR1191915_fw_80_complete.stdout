@@ -1,0 +1,305 @@
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Filtering alignments...
+Parsing coords...
+Loading reference...
+	Loaded [mers_ENA_KT006149_KT006149.2]
+	Total Regions: 1
+	Total Region Length: 30114
+Analyzing contigs...
+CONTIG: 0 (877bp)
+Best alignment score: 874.0 (LEN: 876, IDY: 99.77), Total number of alignments: 1
+		One align captures most of this contig: 28875 29750 | 2 877 | 876 876 | 99.77 | mers_ENA_KT006149_KT006149.2 0
+
+CONTIG: 1 (15873bp)
+Best alignment score: 15805.9 (LEN: 15871, IDY: 99.59), Total number of alignments: 1
+		One align captures most of this contig: 10977 26847 | 3 15873 | 15871 15871 | 99.59 | mers_ENA_KT006149_KT006149.2 1
+
+CONTIG: 2 (15967bp)
+Best alignment score: 15805.9 (LEN: 15871, IDY: 99.59), Total number of alignments: 2
+		Skipping these alignments as insignificant (option --ambiguity-score is set to "0.99"):
+			Skipping alignment 27203 27297 | 96 2 | 95 95 | 97.89 | mers_ENA_KT006149_KT006149.2 2
+		One align captures most of this contig: 10977 26847 | 15966 96 | 15871 15871 | 99.59 | mers_ENA_KT006149_KT006149.2 2
+
+CONTIG: 3 (13765bp)
+Best alignment score: 13718.6 (LEN: 13764, IDY: 99.67), Total number of alignments: 1
+		One align captures most of this contig: 10977 24740 | 13764 1 | 13764 13764 | 99.67 | mers_ENA_KT006149_KT006149.2 3
+
+CONTIG: 4 (1554bp)
+Best alignment score: 1541.0 (LEN: 1550, IDY: 99.42), Total number of alignments: 1
+		One align captures most of this contig: 27224 28773 | 1551 2 | 1550 1550 | 99.42 | mers_ENA_KT006149_KT006149.2 4
+
+CONTIG: 5 (2071bp)
+Best alignment score: 2057.1 (LEN: 2067, IDY: 99.52), Total number of alignments: 1
+		One align captures most of this contig: 27224 29290 | 2068 2 | 2067 2067 | 99.52 | mers_ENA_KT006149_KT006149.2 5
+
+CONTIG: 6 (2146bp)
+Best alignment score: 2137.1 (LEN: 2145, IDY: 99.63), Total number of alignments: 1
+		One align captures most of this contig: 27606 29750 | 2 2146 | 2145 2145 | 99.63 | mers_ENA_KT006149_KT006149.2 6
+
+CONTIG: 7 (2079bp)
+Best alignment score: 2066.0 (LEN: 2076, IDY: 99.52), Total number of alignments: 1
+		One align captures most of this contig: 27224 29299 | 2076 1 | 2076 2076 | 99.52 | mers_ENA_KT006149_KT006149.2 7
+
+CONTIG: 8 (5587bp)
+Best alignment score: 5555.3 (LEN: 5586, IDY: 99.45), Total number of alignments: 1
+		One align captures most of this contig: 42 5627 | 2 5587 | 5586 5586 | 99.45 | mers_ENA_KT006149_KT006149.2 8
+
+CONTIG: 9 (689bp)
+Best alignment score: 686.0 (LEN: 688, IDY: 99.71), Total number of alignments: 1
+		One align captures most of this contig: 28855 29542 | 2 689 | 688 688 | 99.71 | mers_ENA_KT006149_KT006149.2 9
+
+CONTIG: 10 (1800bp)
+Best alignment score: 1792.0 (LEN: 1799, IDY: 99.61), Total number of alignments: 1
+		One align captures most of this contig: 7559 9357 | 1800 2 | 1799 1799 | 99.61 | mers_ENA_KT006149_KT006149.2 10
+
+CONTIG: 11 (770bp)
+Best alignment score: 767.0 (LEN: 769, IDY: 99.74), Total number of alignments: 1
+		One align captures most of this contig: 28982 29750 | 2 770 | 769 769 | 99.74 | mers_ENA_KT006149_KT006149.2 11
+
+CONTIG: 13 (2081bp)
+Best alignment score: 2068.0 (LEN: 2078, IDY: 99.52), Total number of alignments: 1
+		One align captures most of this contig: 27224 29301 | 2078 1 | 2078 2078 | 99.52 | mers_ENA_KT006149_KT006149.2 13
+
+CONTIG: 14 (16104bp)
+Best alignment score: 16032.8 (LEN: 16102, IDY: 99.57), Total number of alignments: 1
+		One align captures most of this contig: 10977 27082 | 16103 2 | 16106 16102 | 99.57 | mers_ENA_KT006149_KT006149.2 14
+
+CONTIG: 15 (2164bp)
+Best alignment score: 2150.1 (LEN: 2160, IDY: 99.54), Total number of alignments: 1
+		One align captures most of this contig: 27224 29383 | 2161 2 | 2160 2160 | 99.54 | mers_ENA_KT006149_KT006149.2 15
+
+CONTIG: 16 (2977bp)
+Best alignment score: 2959.0 (LEN: 2976, IDY: 99.43), Total number of alignments: 1
+		One align captures most of this contig: 26771 29750 | 2 2977 | 2980 2976 | 99.43 | mers_ENA_KT006149_KT006149.2 16
+
+CONTIG: 17 (2981bp)
+Best alignment score: 2966.9 (LEN: 2980, IDY: 99.56), Total number of alignments: 1
+		One align captures most of this contig: 26771 29750 | 2 2981 | 2980 2980 | 99.56 | mers_ENA_KT006149_KT006149.2 17
+
+CONTIG: 18 (1393bp)
+Best alignment score: 1389.0 (LEN: 1393, IDY: 99.71), Total number of alignments: 1
+		One align captures most of this contig: 28358 29750 | 1 1393 | 1393 1393 | 99.71 | mers_ENA_KT006149_KT006149.2 18
+
+CONTIG: 20 (711bp)
+Best alignment score: 708.0 (LEN: 710, IDY: 99.72), Total number of alignments: 1
+		One align captures most of this contig: 29146 29855 | 711 2 | 710 710 | 99.72 | mers_ENA_KT006149_KT006149.2 20
+
+CONTIG: 22 (700bp)
+Best alignment score: 698.0 (LEN: 699, IDY: 99.86), Total number of alignments: 1
+		One align captures most of this contig: 29146 29844 | 700 2 | 699 699 | 99.86 | mers_ENA_KT006149_KT006149.2 22
+
+CONTIG: 23 (2153bp)
+Best alignment score: 2138.9 (LEN: 2149, IDY: 99.53), Total number of alignments: 1
+		One align captures most of this contig: 27224 29372 | 2150 2 | 2149 2149 | 99.53 | mers_ENA_KT006149_KT006149.2 23
+
+CONTIG: 24 (4228bp)
+Best alignment score: 4191.9 (LEN: 4227, IDY: 99.17), Total number of alignments: 1
+		One align captures most of this contig: 22622 26847 | 2 4228 | 4226 4227 | 99.17 | mers_ENA_KT006149_KT006149.2 24
+
+CONTIG: 25 (1261bp)
+Best alignment score: 1251.0 (LEN: 1255, IDY: 99.68), Total number of alignments: 1
+		One align captures most of this contig: 9721 10975 | 2 1256 | 1255 1255 | 99.68 | mers_ENA_KT006149_KT006149.2 25
+
+CONTIG: 26 (788bp)
+Best alignment score: 785.0 (LEN: 787, IDY: 99.75), Total number of alignments: 1
+		One align captures most of this contig: 29146 29932 | 788 2 | 787 787 | 99.75 | mers_ENA_KT006149_KT006149.2 26
+
+CONTIG: 27 (5640bp)
+Best alignment score: 5608.0 (LEN: 5639, IDY: 99.45), Total number of alignments: 1
+		One align captures most of this contig: 42 5680 | 5640 2 | 5639 5639 | 99.45 | mers_ENA_KT006149_KT006149.2 27
+
+CONTIG: 28 (781bp)
+Best alignment score: 778.0 (LEN: 780, IDY: 99.74), Total number of alignments: 1
+		One align captures most of this contig: 28971 29750 | 2 781 | 780 780 | 99.74 | mers_ENA_KT006149_KT006149.2 28
+
+CONTIG: 29 (798bp)
+Best alignment score: 795.0 (LEN: 797, IDY: 99.75), Total number of alignments: 1
+		One align captures most of this contig: 29146 29942 | 798 2 | 797 797 | 99.75 | mers_ENA_KT006149_KT006149.2 29
+
+CONTIG: 30 (700bp)
+Best alignment score: 698.0 (LEN: 699, IDY: 99.86), Total number of alignments: 1
+		One align captures most of this contig: 29146 29844 | 700 2 | 699 699 | 99.86 | mers_ENA_KT006149_KT006149.2 30
+
+CONTIG: 31 (588bp)
+Best alignment score: 585.0 (LEN: 586, IDY: 99.83), Total number of alignments: 1
+		One align captures most of this contig: 29146 29731 | 588 3 | 586 586 | 99.83 | mers_ENA_KT006149_KT006149.2 31
+
+CONTIG: 32 (13632bp)
+Best alignment score: 13587.7 (LEN: 13630, IDY: 99.69), Total number of alignments: 1
+		One align captures most of this contig: 10977 24606 | 13631 2 | 13630 13630 | 99.69 | mers_ENA_KT006149_KT006149.2 32
+
+CONTIG: 33 (2562bp)
+Best alignment score: 2531.9 (LEN: 2557, IDY: 99.02), Total number of alignments: 1
+		One align captures most of this contig: 24291 26847 | 6 2562 | 2557 2557 | 99.02 | mers_ENA_KT006149_KT006149.2 33
+
+CONTIG: 34 (11822bp)
+Best alignment score: 11786.9 (LEN: 11820, IDY: 99.72), Total number of alignments: 1
+		One align captures most of this contig: 10977 22795 | 11821 2 | 11819 11820 | 99.72 | mers_ENA_KT006149_KT006149.2 34
+
+CONTIG: 35 (685bp)
+Best alignment score: 685.0 (LEN: 685, IDY: 100.00), Total number of alignments: 1
+		One align captures most of this contig: 29146 29830 | 685 1 | 685 685 | 100.0 | mers_ENA_KT006149_KT006149.2 35
+
+CONTIG: 36 (2517bp)
+Best alignment score: 2505.9 (LEN: 2516, IDY: 99.60), Total number of alignments: 1
+		One align captures most of this contig: 27235 29750 | 2 2517 | 2516 2516 | 99.6 | mers_ENA_KT006149_KT006149.2 36
+
+CONTIG: 39 (1262bp)
+Best alignment score: 1252.0 (LEN: 1256, IDY: 99.68), Total number of alignments: 1
+		One align captures most of this contig: 9720 10975 | 2 1257 | 1256 1256 | 99.68 | mers_ENA_KT006149_KT006149.2 39
+
+CONTIG: 40 (1726bp)
+Best alignment score: 1713.0 (LEN: 1722, IDY: 99.48), Total number of alignments: 1
+		One align captures most of this contig: 27224 28945 | 1723 2 | 1722 1722 | 99.48 | mers_ENA_KT006149_KT006149.2 40
+
+CONTIG: 41 (15704bp)
+Best alignment score: 15637.6 (LEN: 15702, IDY: 99.59), Total number of alignments: 1
+		One align captures most of this contig: 10977 26678 | 15703 2 | 15702 15702 | 99.59 | mers_ENA_KT006149_KT006149.2 41
+
+CONTIG: 42 (560bp)
+Best alignment score: 556.0 (LEN: 559, IDY: 99.46), Total number of alignments: 1
+		One align captures most of this contig: 26289 26847 | 2 560 | 559 559 | 99.46 | mers_ENA_KT006149_KT006149.2 42
+
+CONTIG: 44 (2841bp)
+Best alignment score: 2828.9 (LEN: 2840, IDY: 99.61), Total number of alignments: 1
+		One align captures most of this contig: 26911 29750 | 2 2841 | 2840 2840 | 99.61 | mers_ENA_KT006149_KT006149.2 44
+
+CONTIG: 45 (1799bp)
+Best alignment score: 1791.0 (LEN: 1798, IDY: 99.61), Total number of alignments: 1
+		One align captures most of this contig: 7559 9356 | 1799 2 | 1798 1798 | 99.61 | mers_ENA_KT006149_KT006149.2 45
+
+CONTIG: 46 (15872bp)
+Best alignment score: 15805.9 (LEN: 15871, IDY: 99.59), Total number of alignments: 1
+		One align captures most of this contig: 10977 26847 | 2 15872 | 15871 15871 | 99.59 | mers_ENA_KT006149_KT006149.2 46
+
+CONTIG: 47 (5641bp)
+Best alignment score: 5609.0 (LEN: 5640, IDY: 99.45), Total number of alignments: 1
+		One align captures most of this contig: 42 5681 | 5641 2 | 5640 5640 | 99.45 | mers_ENA_KT006149_KT006149.2 47
+
+CONTIG: 48 (814bp)
+Best alignment score: 811.0 (LEN: 813, IDY: 99.75), Total number of alignments: 1
+		One align captures most of this contig: 28938 29750 | 2 814 | 813 813 | 99.75 | mers_ENA_KT006149_KT006149.2 48
+
+CONTIG: 49 (812bp)
+Best alignment score: 805.0 (LEN: 808, IDY: 99.63), Total number of alignments: 1
+		One align captures most of this contig: 27224 28031 | 809 2 | 808 808 | 99.63 | mers_ENA_KT006149_KT006149.2 49
+
+CONTIG: 50 (13281bp)
+Best alignment score: 13241.5 (LEN: 13280, IDY: 99.71), Total number of alignments: 1
+		One align captures most of this contig: 10977 24256 | 13280 1 | 13280 13280 | 99.71 | mers_ENA_KT006149_KT006149.2 50
+
+CONTIG: 51 (500bp)
+Best alignment score: 497.0 (LEN: 498, IDY: 99.80), Total number of alignments: 1
+		One align captures most of this contig: 29146 29643 | 500 3 | 498 498 | 99.8 | mers_ENA_KT006149_KT006149.2 51
+
+CONTIG: 52 (814bp)
+Best alignment score: 807.0 (LEN: 810, IDY: 99.63), Total number of alignments: 1
+		One align captures most of this contig: 27224 28033 | 811 2 | 810 810 | 99.63 | mers_ENA_KT006149_KT006149.2 52
+
+CONTIG: 53 (1360bp)
+Best alignment score: 1355.1 (LEN: 1359, IDY: 99.71), Total number of alignments: 1
+		One align captures most of this contig: 28392 29750 | 2 1360 | 1359 1359 | 99.71 | mers_ENA_KT006149_KT006149.2 53
+
+CONTIG: 54 (2605bp)
+Best alignment score: 2577.0 (LEN: 2602, IDY: 99.04), Total number of alignments: 1
+		One align captures most of this contig: 24246 26847 | 4 2605 | 2602 2602 | 99.04 | mers_ENA_KT006149_KT006149.2 54
+
+CONTIG: 55 (1734bp)
+Best alignment score: 1726.1 (LEN: 1733, IDY: 99.60), Total number of alignments: 1
+		One align captures most of this contig: 7559 9291 | 2 1734 | 1733 1733 | 99.6 | mers_ENA_KT006149_KT006149.2 55
+
+CONTIG: 56 (2902bp)
+Best alignment score: 2884.1 (LEN: 2896, IDY: 99.59), Total number of alignments: 1
+		One align captures most of this contig: 26855 29750 | 7 2902 | 2896 2896 | 99.59 | mers_ENA_KT006149_KT006149.2 56
+
+CONTIG: 57 (2818bp)
+Best alignment score: 2538.1 (LEN: 2548, IDY: 99.61), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 2780.6, number of alignments: 2, unaligned bases: 1
+		This contig is misassembled.
+			Excluding internal overlap of size 1 between Alignment 1 and 2: 26578 26847 | 2 271 | 270 270 --> 26578 26846 | 2 270 | 269 269
+			Real Alignment 1: 26578 26846 | 2 270 | 269 269 | 99.26 | mers_ENA_KT006149_KT006149.2 57
+			  Gap between these two alignments (local misassembly). Inconsistency = 356
+			Real Alignment 2: 27203 29750 | 271 2818 | 2548 2548 | 99.61 | mers_ENA_KT006149_KT006149.2 57
+
+CONTIG: 58 (3041bp)
+Best alignment score: 3013.0 (LEN: 3041, IDY: 99.08), Total number of alignments: 1
+		One align captures most of this contig: 23807 26847 | 1 3041 | 3041 3041 | 99.08 | mers_ENA_KT006149_KT006149.2 58
+
+CONTIG: 59 (919bp)
+Best alignment score: 916.0 (LEN: 918, IDY: 99.78), Total number of alignments: 1
+		One align captures most of this contig: 28833 29750 | 2 919 | 918 918 | 99.78 | mers_ENA_KT006149_KT006149.2 59
+
+CONTIG: 60 (2738bp)
+Best alignment score: 2517.9 (LEN: 2527, IDY: 99.64), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 2700.9, number of alignments: 2, unaligned bases: 1
+		This contig is misassembled.
+			Excluding internal overlap of size 2 between Alignment 1 and 2: 26667 26878 | 2 213 | 212 212 --> 26667 26876 | 2 211 | 210 210
+			Real Alignment 1: 26667 26876 | 2 211 | 210 210 | 99.06 | mers_ENA_KT006149_KT006149.2 60
+			  Gap between these two alignments (local misassembly). Inconsistency = 347
+			Real Alignment 2: 27224 29750 | 212 2738 | 2527 2527 | 99.64 | mers_ENA_KT006149_KT006149.2 60
+
+CONTIG: 61 (2170bp)
+Best alignment score: 2156.0 (LEN: 2166, IDY: 99.54), Total number of alignments: 1
+		One align captures most of this contig: 27224 29389 | 2167 2 | 2166 2166 | 99.54 | mers_ENA_KT006149_KT006149.2 61
+
+CONTIG: 62 (2095bp)
+Best alignment score: 2086.0 (LEN: 2094, IDY: 99.62), Total number of alignments: 1
+		One align captures most of this contig: 27657 29750 | 2 2095 | 2094 2094 | 99.62 | mers_ENA_KT006149_KT006149.2 62
+
+CONTIG: 63 (5586bp)
+Best alignment score: 5553.7 (LEN: 5585, IDY: 99.44), Total number of alignments: 1
+		One align captures most of this contig: 43 5627 | 2 5586 | 5585 5585 | 99.44 | mers_ENA_KT006149_KT006149.2 63
+
+CONTIG: 64 (683bp)
+Best alignment score: 681.0 (LEN: 682, IDY: 99.85), Total number of alignments: 1
+		One align captures most of this contig: 29146 29827 | 683 2 | 682 682 | 99.85 | mers_ENA_KT006149_KT006149.2 64
+
+CONTIG: 65 (811bp)
+Best alignment score: 808.0 (LEN: 810, IDY: 99.75), Total number of alignments: 1
+		One align captures most of this contig: 28941 29750 | 2 811 | 810 810 | 99.75 | mers_ENA_KT006149_KT006149.2 65
+
+CONTIG: 66 (594bp)
+Best alignment score: 368.0 (LEN: 370, IDY: 99.46), Total number of alignments: 2
+			Looking for the best set of alignments (out of 2 total alignments)
+			The best set is below. Score: 583.0, number of alignments: 2, unaligned bases: 1
+		This contig is misassembled.
+			Excluding internal overlap of size 2 between Alignment 1 and 2: 27224 27448 | 369 593 | 225 225 --> 27226 27448 | 371 593 | 223 223
+			Real Alignment 1: 26509 26878 | 1 370 | 370 370 | 99.46 | mers_ENA_KT006149_KT006149.2 66
+			  Gap between these two alignments (local misassembly). Inconsistency = 347
+			Real Alignment 2: 27226 27448 | 371 593 | 223 223 | 99.11 | mers_ENA_KT006149_KT006149.2 66
+
+Analyzing coverage...
+Writing SNPs into /home/borja/Escritorio/Helsinki/Assemblies/results_gather/DatosTod/quast_results/results_2020_09_25_09_44_52/runs_per_reference/mers/contigs_reports/minimap_output/SRR1191915_fw_80_complete.used_snps.gz
+
+Analysis is finished!
+Founded SNPs were written into /home/borja/Escritorio/Helsinki/Assemblies/results_gather/DatosTod/quast_results/results_2020_09_25_09_44_52/runs_per_reference/mers/contigs_reports/minimap_output/SRR1191915_fw_80_complete.used_snps.gz
+
+Results:
+	Local Misassemblies: 3
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Scaffold gap extensive misassemblies: 0
+	Scaffold gap local misassemblies: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Unaligned Contigs: 0 + 0 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 0
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 27661
+
+	SNPs: 969
+	Insertions: 2
+	Deletions: 8
+

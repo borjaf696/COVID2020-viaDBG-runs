@@ -1,0 +1,2 @@
+Assemblies  SRR1190502_contigs_fw_30_complete
+mers        0.00                             

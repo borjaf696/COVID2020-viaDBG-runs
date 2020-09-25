@@ -1,0 +1,2 @@
+Assemblies  SRR1191991_fw_80_complete
+mers        14979                    

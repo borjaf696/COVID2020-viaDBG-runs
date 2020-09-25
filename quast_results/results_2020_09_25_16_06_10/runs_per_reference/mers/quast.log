@@ -1,0 +1,100 @@
+/home/borja/Escritorio/Helsinki/Assemblies/results_gather/COVID2020-viaDBG-runs/quast-5.0.2/quast.py --colors #E31A1C --ls solid --no-check-meta --contig-thresholds 1000,5000,10000,25000,50000 /home/borja/Escritorio/Helsinki/Assemblies/results_gather/COVID2020-viaDBG-runs/quast_results/results_2020_09_25_16_06_10/quast_corrected_input/SRR1190502_contigs_fw_30_complete_to_mers.fasta -R /home/borja/Escritorio/Helsinki/Assemblies/results_gather/COVID2020-viaDBG-runs/quast_results/results_2020_09_25_16_06_10/quast_corrected_input/mers.fa -o /home/borja/Escritorio/Helsinki/Assemblies/results_gather/COVID2020-viaDBG-runs/quast_results/results_2020_09_25_16_06_10/runs_per_reference/mers --labels SRR1190502_contigs_fw_30_complete
+
+Started: 2020-09-25 16:06:17
+
+Logging to /home/borja/Escritorio/Helsinki/Assemblies/results_gather/COVID2020-viaDBG-runs/quast_results/results_2020_09_25_16_06_10/runs_per_reference/mers/quast.log
+NOTICE: Maximum number of threads is set to 1 (use --threads option to set it manually)
+
+CWD: /home/borja/Escritorio/Helsinki/Assemblies/results_gather/COVID2020-viaDBG-runs
+Main parameters: 
+  MODE: meta, threads: 1, minimum contig length: 500, minimum alignment length: 65, ambiguity: one, \
+  threshold for extensive misassembly size: 1000
+
+Reference:
+  /home/borja/Escritorio/Helsinki/Assemblies/results_gather/COVID2020-viaDBG-runs/quast_results/results_2020_09_25_16_06_10/quast_corrected_input/mers.fa ==> mers
+
+Contigs:
+  Pre-processing...
+  /home/borja/Escritorio/Helsinki/Assemblies/results_gather/COVID2020-viaDBG-runs/quast_results/results_2020_09_25_16_06_10/quast_corrected_input/SRR1190502_contigs_fw_30_complete_to_mers.fasta ==> SRR1190502_contigs_fw_30_complete
+
+2020-09-25 16:06:17
+Running Basic statistics processor...
+  Reference genome:
+    mers.fa, length = 30114, num fragments = 1, GC % = 41.12
+  Contig files: 
+    SRR1190502_contigs_fw_30_complete
+  Calculating N50 and L50...
+    SRR1190502_contigs_fw_30_complete, N50 = 14874, L50 = 4, Total length = 120827, GC % = 40.95, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/borja/Escritorio/Helsinki/Assemblies/results_gather/COVID2020-viaDBG-runs/quast_results/results_2020_09_25_16_06_10/runs_per_reference/mers/basic_stats/Nx_plot.pdf
+  Drawing NGx plot...
+    saved to /home/borja/Escritorio/Helsinki/Assemblies/results_gather/COVID2020-viaDBG-runs/quast_results/results_2020_09_25_16_06_10/runs_per_reference/mers/basic_stats/NGx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/borja/Escritorio/Helsinki/Assemblies/results_gather/COVID2020-viaDBG-runs/quast_results/results_2020_09_25_16_06_10/runs_per_reference/mers/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/borja/Escritorio/Helsinki/Assemblies/results_gather/COVID2020-viaDBG-runs/quast_results/results_2020_09_25_16_06_10/runs_per_reference/mers/basic_stats/GC_content_plot.pdf
+  Drawing SRR1190502_contigs_fw_30_complete GC content plot...
+    saved to /home/borja/Escritorio/Helsinki/Assemblies/results_gather/COVID2020-viaDBG-runs/quast_results/results_2020_09_25_16_06_10/runs_per_reference/mers/basic_stats/SRR1190502_contigs_fw_30_complete_GC_content_plot.pdf
+Done.
+
+2020-09-25 16:06:18
+Running Contig analyzer...
+  SRR1190502_contigs_fw_30_complete
+  Logging to files /home/borja/Escritorio/Helsinki/Assemblies/results_gather/COVID2020-viaDBG-runs/quast_results/results_2020_09_25_16_06_10/runs_per_reference/mers/contigs_reports/contigs_report_SRR1190502_contigs_fw_30_complete.stdout and contigs_report_SRR1190502_contigs_fw_30_complete.stderr...
+  Aligning contigs to the reference
+  quast-5.0.2/quast_libs/minimap2/minimap2 -c -x asm5 -B5 -O4,16 --no-long-join -r \
+  85 -N 50 -s 65 -z 200 --mask-level 0.9 --min-occ 200 -g 2500 --score-N 2 --cs -t \
+  1 quast_results/results_2020_09_25_16_06_10/quast_corrected_input/mers.fa quast_results/results_2020_09_25_16_06_10/quast_corrected_input/SRR1190502_contigs_fw_30_complete_to_mers.fasta \
+  > quast_results/results_2020_09_25_16_06_10/runs_per_reference/mers/contigs_reports/minimap_output/SRR1190502_contigs_fw_30_complete.coords_tmp \
+  2>> quast_results/results_2020_09_25_16_06_10/runs_per_reference/mers/contigs_reports/contigs_report_SRR1190502_contigs_fw_30_complete.stderr
+  Analysis is finished.
+
+  Creating total report...
+    saved to /home/borja/Escritorio/Helsinki/Assemblies/results_gather/COVID2020-viaDBG-runs/quast_results/results_2020_09_25_16_06_10/runs_per_reference/mers/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /home/borja/Escritorio/Helsinki/Assemblies/results_gather/COVID2020-viaDBG-runs/quast_results/results_2020_09_25_16_06_10/runs_per_reference/mers/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /home/borja/Escritorio/Helsinki/Assemblies/results_gather/COVID2020-viaDBG-runs/quast_results/results_2020_09_25_16_06_10/runs_per_reference/mers/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+  Drawing misassemblies by types plot...
+    saved to /home/borja/Escritorio/Helsinki/Assemblies/results_gather/COVID2020-viaDBG-runs/quast_results/results_2020_09_25_16_06_10/runs_per_reference/mers/contigs_reports/misassemblies_plot.pdf
+  Drawing misassemblies FRCurve plot...
+    saved to /home/borja/Escritorio/Helsinki/Assemblies/results_gather/COVID2020-viaDBG-runs/quast_results/results_2020_09_25_16_06_10/runs_per_reference/mers/contigs_reports/misassemblies_frcurve_plot.pdf
+Done.
+
+2020-09-25 16:06:19
+Running NA-NGA calculation...
+  SRR1190502_contigs_fw_30_complete, Largest alignment = 16884, NA50 = 14873, NGA50 = 16884, LA50 = 4, LGA50 = 1
+  Drawing cumulative plot...
+    saved to /home/borja/Escritorio/Helsinki/Assemblies/results_gather/COVID2020-viaDBG-runs/quast_results/results_2020_09_25_16_06_10/runs_per_reference/mers/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /home/borja/Escritorio/Helsinki/Assemblies/results_gather/COVID2020-viaDBG-runs/quast_results/results_2020_09_25_16_06_10/runs_per_reference/mers/aligned_stats/NAx_plot.pdf
+  Drawing NGAx plot...
+    saved to /home/borja/Escritorio/Helsinki/Assemblies/results_gather/COVID2020-viaDBG-runs/quast_results/results_2020_09_25_16_06_10/runs_per_reference/mers/aligned_stats/NGAx_plot.pdf
+Done.
+
+2020-09-25 16:06:20
+Running Genome analyzer...
+  NOTICE: No file with genomic features were provided. Use the --features option if you want to specify it.
+
+  NOTICE: No file with operons were provided. Use the -O option if you want to specify it.
+  SRR1190502_contigs_fw_30_complete
+  Analysis is finished.
+  Skipping drawing Genome fraction, % histogram... (less than 2 columns histogram makes no sense)
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2020-09-25 16:06:20
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-09-25 16:06:21
+RESULTS:
+  Text versions of total report are saved to /home/borja/Escritorio/Helsinki/Assemblies/results_gather/COVID2020-viaDBG-runs/quast_results/results_2020_09_25_16_06_10/runs_per_reference/mers/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/borja/Escritorio/Helsinki/Assemblies/results_gather/COVID2020-viaDBG-runs/quast_results/results_2020_09_25_16_06_10/runs_per_reference/mers/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /home/borja/Escritorio/Helsinki/Assemblies/results_gather/COVID2020-viaDBG-runs/quast_results/results_2020_09_25_16_06_10/runs_per_reference/mers/report.html
+  PDF version (tables and plots) is saved to /home/borja/Escritorio/Helsinki/Assemblies/results_gather/COVID2020-viaDBG-runs/quast_results/results_2020_09_25_16_06_10/runs_per_reference/mers/report.pdf
+  Icarus (contig browser) is saved to /home/borja/Escritorio/Helsinki/Assemblies/results_gather/COVID2020-viaDBG-runs/quast_results/results_2020_09_25_16_06_10/runs_per_reference/mers/icarus.html

@@ -1,0 +1,49 @@
+Assembly	SRR1191991_fw_80_complete
+# contigs (>= 1000 bp)	43
+# contigs (>= 5000 bp)	22
+# contigs (>= 10000 bp)	11
+# contigs (>= 25000 bp)	0
+# contigs (>= 50000 bp)	0
+Total length (>= 1000 bp)	249684
+Total length (>= 5000 bp)	208527
+Total length (>= 10000 bp)	141059
+Total length (>= 25000 bp)	0
+Total length (>= 50000 bp)	0
+# contigs	71
+Largest contig	14979
+Total length	270199
+Reference length	30114
+GC (%)	41.56
+Reference GC (%)	41.12
+N50	10392
+NG50	14978
+N75	5018
+NG75	14978
+L50	11
+LG50	2
+L75	21
+LG75	2
+# misassemblies	0
+# misassembled contigs	0
+Misassembled contigs length	0
+# local misassemblies	4
+# scaffold gap ext. mis.	0
+# scaffold gap loc. mis.	0
+# unaligned mis. contigs	0
+# unaligned contigs	0 + 0 part
+Unaligned length	0
+Genome fraction (%)	82.782
+Duplication ratio	10.839
+# N's per 100 kbp	0.00
+# mismatches per 100 kbp	4849.77
+# indels per 100 kbp	20.06
+Largest alignment	14978
+Total aligned length	270133
+NA50	10391
+NGA50	14977
+NA75	5017
+NGA75	14977
+LA50	11
+LGA50	2
+LA75	21
+LGA75	2

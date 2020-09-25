@@ -1,0 +1,14 @@
+reference chromosomes:
+	mers_ENA_KT006149_KT006149.2 (total length: 30114 bp, total length without N's: 30114 bp, maximal covered length: 27880 bp)
+
+total genome size: 30114
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+SRR1190502_contigs_fw_30 | 92.582    | 4.334       | 3         | -         | -         | -         | -         |
